@@ -1,0 +1,20 @@
+{
+  "name": "parcialdefini",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "kevin crowley",
+  "license": "ISC",
+  "description": "eduacion",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongodb": "6.9",
+    "nodemon": "^3.1.7"
+  }
+}

@@ -1,0 +1,195 @@
+[{
+  "_id": {
+    "$oid": "66f7397608a02801dd5a31b5"
+  },
+  "nombre": "Introducción a la Programación",
+  "descripcion": "Un documento que cubre los conceptos básicos de la programación, incluyendo variables, estructuras de control y funciones.",
+  "seccion": "Programación",
+  "fuente": "https://www.ejemplo.com/documentos/introduccion-programacion",
+  "imagen": "https://picsum.photos/200"
+},
+{
+  "_id": {
+    "$oid": "66f7397608a02801dd5a31b6"
+  },
+  "nombre": "Guía de Estilo de JavaScript",
+  "descripcion": "Un documento que detalla las mejores prácticas y convenciones para escribir código JavaScript limpio y mantenible.",
+  "seccion": "Programación",
+  "fuente": "https://www.ejemplo.com/documentos/guia-estilo-javascript",
+  "imagen": "https://picsum.photos/200"
+},
+{
+  "_id": {
+    "$oid": "66f7397608a02801dd5a31b7"
+  },
+  "nombre": "Historia del Diseño Gráfico",
+  "descripcion": "Un análisis del desarrollo del diseño gráfico a través de las décadas, explorando sus influencias culturales y tecnológicas.",
+  "seccion": "Diseño",
+  "fuente": "https://www.ejemplo.com/documentos/historia-disenio-grafico",
+  "imagen": "https://picsum.photos/200"
+},
+{
+  "_id": {
+    "$oid": "66f7397608a02801dd5a31b8"
+  },
+  "nombre": "Fundamentos de la Fotografía",
+  "descripcion": "Un documento que explora los principios básicos de la fotografía, incluyendo la exposición, el encuadre y la iluminación.",
+  "seccion": "Fotografía",
+  "fuente": "https://www.ejemplo.com/documentos/fundamentos-fotografia",
+  "imagen": "https://picsum.photos/200"
+},
+{
+  "_id": {
+    "$oid": "66f7397608a02801dd5a31b9"
+  },
+  "nombre": "Guía de Marketing Digital",
+  "descripcion": "Un recurso completo sobre estrategias de marketing digital, incluyendo SEO, redes sociales y análisis de datos.",
+  "seccion": "Diseño",
+  "fuente": "https://www.ejemplo.com/documentos/guia-marketing-digital",
+  "imagen": "https://picsum.photos/200"
+},
+{
+  "_id": {
+    "$oid": "66f84db4d0d25bf8c6c27bc0"
+  },
+  "nombre": "Conceptos Básicos de la Física",
+  "descripcion": "Un documento que explica los principios fundamentales de la física, incluyendo la mecánica y la termodinámica. También material de apoyo.",
+  "seccion": "Física",
+  "fuente": "https://www.ejemplo.com/documentos/conceptos-basicos-fisica-",
+  "imagen": "https://picsum.photos/200"
+},
+{
+  "_id": {
+    "$oid": "66f8507fd0d25bf8c6c27bc1"
+  },
+  "nombre": "Conceptos Básicos de la Física",
+  "descripcion": "Un documento que explica los principios fundamentales de la física, incluyendo la mecánica y la termodinámica. También material de apoyo.",
+  "seccion": "Física",
+  "fuente": "https://www.ejemplo.com/documentos/conceptos-basicos-fisica-",
+  "imagen": "https://picsum.photos/200",
+  "eliminado": true
+},
+{
+  "_id": {
+    "$oid": "66faf3480a9ec707609a644e"
+  },
+  "nombre": "Guía de Estilo de JavaScript",
+  "descripcion": "Un documento que detalla las mejores prácticas y convenciones para escribir código JavaScript limpio y mantenible.",
+  "seccion": "Programación",
+  "fuente": "https://www.ejemplo.com/documentos/guia-estilo-javascript",
+  "imagen": "https://picsum.photos/200"
+},
+{
+  "_id": {
+    "$oid": "66faf35c0a9ec707609a644f"
+  },
+  "nombre": "Introducción a Python",
+  "descripcion": "Un curso básico para aprender los fundamentos del lenguaje de programación Python.",
+  "seccion": "Programación",
+  "fuente": "https://www.ejemplo.com/documentos/introduccion-python",
+  "imagen": "https://picsum.photos/200"
+},
+{
+  "_id": {
+    "$oid": "66faf3af0a9ec707609a6450"
+  },
+  "nombre": "Álgebra Lineal Básica",
+  "descripcion": "Un documento que cubre los conceptos fundamentales del álgebra lineal, incluyendo matrices, vectores y transformaciones lineales.",
+  "seccion": "Matemática",
+  "fuente": "https://www.ejemplo.com/documentos/algebra-lineal-basica",
+  "imagen": "https://picsum.photos/200"
+},
+{
+  "_id": {
+    "$oid": "66faf3b90a9ec707609a6451"
+  },
+  "nombre": "Cálculo Diferencial e Integral",
+  "descripcion": "Una guía completa sobre cálculo, abarcando desde los límites hasta las integrales y derivadas.",
+  "seccion": "Matemática",
+  "fuente": "https://www.ejemplo.com/documentos/calculo-diferencial-integral",
+  "imagen": "https://picsum.photos/200"
+},
+{
+  "_id": {
+    "$oid": "66faf3c10a9ec707609a6452"
+  },
+  "nombre": "Teoría de Números",
+  "descripcion": "Un documento introductorio que explora la teoría de números y sus aplicaciones.",
+  "seccion": "Matemática",
+  "fuente": "https://www.ejemplo.com/documentos/teoria-numeros",
+  "imagen": "https://picsum.photos/200"
+},
+{
+  "_id": {
+    "$oid": "66faf3d00a9ec707609a6453"
+  },
+  "nombre": "Mecánica Clásica",
+  "descripcion": "Un documento que cubre las leyes de Newton, el movimiento de los cuerpos y otros conceptos clave de la mecánica clásica.",
+  "seccion": "Física",
+  "fuente": "https://www.ejemplo.com/documentos/mecanica-clasica",
+  "imagen": "https://picsum.photos/200"
+},
+{
+  "_id": {
+    "$oid": "66faf3d60a9ec707609a6454"
+  },
+  "nombre": "Electromagnetismo Básico",
+  "descripcion": "Una introducción al electromagnetismo, incluyendo el estudio de los campos eléctricos y magnéticos.",
+  "seccion": "Física",
+  "fuente": "https://www.ejemplo.com/documentos/electromagnetismo-basico",
+  "imagen": "https://picsum.photos/200"
+},
+{
+  "_id": {
+    "$oid": "66faf3e50a9ec707609a6455"
+  },
+  "nombre": "Física Cuántica para Principiantes",
+  "descripcion": "Una guía introductoria a los principios básicos de la física cuántica y su impacto en la ciencia moderna.",
+  "seccion": "Física",
+  "fuente": "https://www.ejemplo.com/documentos/fisica-cuantica-principiantes",
+  "imagen": "https://picsum.photos/200"
+},
+{
+  "_id": {
+    "$oid": "66faf3fd0a9ec707609a6456"
+  },
+  "nombre": "Guía de Fotografía Digital",
+  "descripcion": "Un manual detallado sobre las técnicas y principios de la fotografía digital moderna.",
+  "seccion": "Fotografía",
+  "fuente": "https://www.ejemplo.com/documentos/guia-fotografia-digital",
+  "imagen": "https://picsum.photos/200"
+},
+{
+  "_id": {
+    "$oid": "66faf4030a9ec707609a6457"
+  },
+  "nombre": "Composición en Fotografía",
+  "descripcion": "Un documento que explica las reglas y técnicas de composición para obtener mejores fotografías.",
+  "seccion": "Fotografía",
+  "fuente": "https://www.ejemplo.com/documentos/composicion-fotografia",
+  "imagen": "https://picsum.photos/200"
+},
+{
+  "_id": {
+    "$oid": "66fdc47944aca3deb7740c55"
+  },
+  "nombre": "Fotografía Nocturna",
+  "descripcion": "Un documento que explora técnicas para capturar imágenes impresionantes en condiciones de poca luz.",
+  "seccion": "Fotografía",
+  "fuente": "https://www.ejemplo.com/documentos/fotografia-nocturna",
+  "imagen": "https://picsum.photos/200",
+  "cliente_id": {
+    "$oid": "66fdc44144aca3deb7740c54"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fdc75942107db060cbeac8"
+  },
+  "nombre": "Introducción a la Programación",
+  "descripcion": "Un documento que cubre los conceptos básicos de la programación, incluyendo variables, estructuras de control y funciones.",
+  "seccion": "Programación",
+  "fuente": "https://www.ejemplo.com/documentos/introduccion-programacion",
+  "imagen": "https://picsum.photos/200",
+  "eliminado": true
+}]
