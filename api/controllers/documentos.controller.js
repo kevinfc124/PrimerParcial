@@ -12,12 +12,16 @@ import {
     actualizarDocumento
 } from "../../services/documentos.service.js";
 
+
 export const obtenerDocumentosController = async (req, res) => {
-    const clienteId = req.params.clienteId;
+    const { seccion, nombre } = req.query;
 
     try {
-        if (clienteId) {
-            const documentos = await obtenerDocumentosPorCliente(clienteId);
+        if (nombre) {
+            const documentos = await getDocumentos({ nombre });
+            res.status(200).json(documentos);
+        } else if (seccion) {
+            const documentos = await getDocumentos({ seccion });
             res.status(200).json(documentos);
         } else {
             const documentos = await obtenerTodosLosDocumentos();
@@ -27,6 +31,7 @@ export const obtenerDocumentosController = async (req, res) => {
         res.status(500).json({ message: error.message });
     }
 };
+
 
 export const obtenerClientesController = async (req, res) => {
     try {
